@@ -4,7 +4,6 @@ date: 2025-10-09 14:30:00 +0600
 categories: [AI, Development, Product]
 tags: [bmad-method, ai, agile, development, frontier-firms, productivity, automation]
 description: After weeks of using BMAD Method, I've discovered the missing piece for building truly AI-native organizations. Here's how it transforms the entire development lifecycle for Frontier Firms.
-pin: true
 ---
 
 ## The Future Isn't Coming—It's Already Here
