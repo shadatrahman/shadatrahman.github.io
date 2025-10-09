@@ -4,6 +4,7 @@ date: 2025-10-10 00:00:00 +0600
 categories: [AI, Development, Product]
 tags: [bmad-method, ai, agile, development, productivity, automation, greenfield]
 description: I built a full project in 4 weeks using BMAD Method. Here's the real walkthrough—from idea validation to deployment—with all the mistakes and wins along the way.
+mermaid: true
 ---
 
 ## Starting Fresh: My First Greenfield Project with BMAD
@@ -41,15 +42,15 @@ graph TB
     
     QA -->|Tested & Validated| Deploy[🚀 Deployment]
     
-    style Start fill:#e1f5ff
-    style Analyst fill:#fff3cd
-    style PM fill:#d4edda
-    style Architect fill:#d1ecf1
-    style UX fill:#f8d7da
-    style SM fill:#e2e3e5
-    style Dev fill:#cce5ff
-    style QA fill:#d4edda
-    style Deploy fill:#c3e6cb
+    style Start fill:#3b82f6,stroke:#1e40af,stroke-width:3px,color:#fff
+    style Analyst fill:#f59e0b,stroke:#b45309,stroke-width:3px,color:#000
+    style PM fill:#10b981,stroke:#047857,stroke-width:3px,color:#fff
+    style Architect fill:#06b6d4,stroke:#0e7490,stroke-width:3px,color:#000
+    style UX fill:#ec4899,stroke:#be185d,stroke-width:3px,color:#fff
+    style SM fill:#6366f1,stroke:#4338ca,stroke-width:3px,color:#fff
+    style Dev fill:#8b5cf6,stroke:#6d28d9,stroke-width:3px,color:#fff
+    style QA fill:#22c55e,stroke:#16a34a,stroke-width:3px,color:#fff
+    style Deploy fill:#14b8a6,stroke:#0f766e,stroke-width:3px,color:#fff
 ```
 
 ## Getting BMAD Set Up (It's Easier Than You Think)
