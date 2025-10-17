@@ -1342,7 +1342,7 @@ Now if you'll excuse me, I have ideas for more features. (This worked so well I'
 
 ---
 
-**Working on your own brownfield nightmare?** I'd love to hear about it. Drop a comment and share your legacy code horror stories. Misery loves company.
+**Working on your own brownfield nightmare?** I'd love to hear about it. Share your legacy code horror stories via email. Misery loves company.
 
 **Next up**: I'm planning a post about using BMAD for refactoring and technical debt management. Because after adding features, we need to clean up the mess. Stay tuned.
 
