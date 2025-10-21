@@ -178,7 +178,7 @@ My conversation looked something like this:
 Me: Design the system architecture for TaskFlow.
 
 Architect: Based on your PRD, here's what I'm thinking:
-           - React + TypeScript for the frontend
+           - Flutter for cross-platform mobile & desktop
            - Node.js/Express backend
            - PostgreSQL database
            - OpenAI API for the AI stuff
@@ -201,7 +201,7 @@ Architect: [Proceeds to explain caching strategy, database
 Here's the cool part—the Architect doesn't just throw random tech at you. It actually justifies the choices based on your specific requirements from the PRD.
 
 You get:
-- Complete tech stack with actual reasoning (not just "React because React")
+- Complete tech stack with actual reasoning (not just "Flutter because Flutter")
 - Database schema that makes sense
 - API design (endpoints, request/response formats)
 - Security stuff (auth, data protection, all that fun compliance things)

@@ -270,7 +270,7 @@ BMAD will analyze the code and give you the bad news. Think of it as looking in 
 - Configuration hardcoded in 5 different places
 
 ### Future Pain Points 🟠
-- Vue 2 is EOL (migration will be painful)
+- Flutter version upgrades may require widget refactoring
 - SQLite not suitable for concurrent writes
 - No backup strategy (just YOLO and hope)
 - Custom search can't scale beyond ~1000 notes
@@ -1182,11 +1182,11 @@ I actually had to use a rollback once. It took 30 seconds and zero panic because
 
 ### Pitfall #5: Trying to Fix Everything At Once
 
-**What happened**: While adding AI features, I noticed Vue 2 was deprecated, SQLite was the wrong choice, my custom search was garbage, and tags were a mess. I tried to fix all of it.
+**What happened**: While adding AI features, I noticed some Flutter widgets needed refactoring, SQLite was the wrong choice, my custom search was garbage, and tags were a mess. I tried to fix all of it.
 
 **Result**: Scope explosion. Three weeks of work turned into "maybe I should just rewrite everything?" which is how projects die.
 
-**Lesson**: Stay focused on your feature. Make a separate backlog for tech debt (Vue 3 migration, database upgrade, tag refactor), but don't fix everything while adding AI. One thing at a time.
+**Lesson**: Stay focused on your feature. Make a separate backlog for tech debt (widget refactoring, database upgrade, tag refactor), but don't fix everything while adding AI. One thing at a time.
 
 ## Advanced Brownfield Techniques
 
