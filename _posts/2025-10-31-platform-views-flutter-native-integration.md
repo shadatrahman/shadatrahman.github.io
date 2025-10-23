@@ -1,5 +1,5 @@
 ---
-title: Platform Views in Flutter: When Flutter and Native Components Have a Love Story
+title: Platform Views in Flutter — When Flutter and Native Components Have a Love Story
 date: 2025-10-31 10:00:00 +0600
 categories: [Flutter, Development]
 tags: [flutter, platform-views, android, ios, native, integration, performance]
