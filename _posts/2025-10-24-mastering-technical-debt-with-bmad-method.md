@@ -123,10 +123,10 @@ gantt
 xychart-beta
     title "Code Quality Metrics"
     x-axis [Before, After]
-    y-axis "0" --> "100"
-    bar [80, 95] "Test Coverage"
-    bar [65, 90] "Code Maintainability"
-    bar [70, 85] "Performance Score"
+    y-axis "Quality Score" 0 --> 100
+    bar [80, 95]
+    bar [65, 90]
+    bar [70, 85]
 ```
 
 ## Phase 1: Test Coverage First (Or: How I Learned to Stop Worrying and Love Testing)
