@@ -6,6 +6,10 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
+- type: pub.dev
+  icon: "fas fa-cube"
+  url: https://pub.dev/publishers/shadatrahman.com/packages
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
